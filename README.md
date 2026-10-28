@@ -33,6 +33,19 @@ I'm a full-stack and AI/LLM developer from the Philippines with 4+ years of expe
 - **Legacy modernization**: refactored older applications into **.NET 8** services, with large gains in performance and maintainability.
 - **POS & inventory system** (freelance): Flutter + Firebase with real-time sync for orders and stock.
 
+## 🔗 Public Projects
+
+Most of my professional work is private, so these are the places you can read code and see how I build:
+
+| Project | What it shows | Stack |
+|---|---|---|
+| [RAG Helpdesk Demo](https://github.com/mackyten/rag-helpdesk-demo) | Retrieval, cited answers from Claude, abstention when the docs don't answer, and an eval harness gated in CI | Python, FastAPI, Claude |
+| [Alagad (case study)](https://github.com/mackyten/alagad-case-study) | An offline-first teaching toolkit for Filipino public school teachers: sync conflict design, regulations as versioned config. Source is private | Flutter, React, Supabase |
+| [AscendID API](https://github.com/mackyten/AscendID_API) | An identity provider with OpenID Connect (PKCE), JWT and Clean Architecture; Docker setup and 30 tests | .NET, OpenIddict, PostgreSQL |
+| [LTO Enforcer App](https://github.com/mackyten/LTO-Project-Enforcer-App) and [Admin App](https://github.com/mackyten/LTO-Project-Admin-App) | A traffic-violation system: field reporting, PayMongo payments and appeals, plus an admin dashboard | Flutter, React, Firebase |
+| [Task Management System](https://github.com/mackyten/task-management-system) | Clean Architecture REST API with JWT refresh tokens, roles, tests and CI | .NET 8, PostgreSQL |
+| [Budget Tracker API](https://github.com/mackyten/budget-tracker-api) and [Web](https://github.com/mackyten/budget-tracker-web) | A CQRS API and its React client | .NET 8, MediatR, React |
+
 ## 🛠️ Tech Stack
 
 **Languages**
